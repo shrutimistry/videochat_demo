@@ -8,4 +8,12 @@
 
 `npm i -g peer`: https://peerjs.com - Allows us to run Peer Server which connects different user and gives us dynamic user Ids
 
+## Setup
+
+### Terminal 1
+`npm run devStart`
+
+### Terminal 2
+
+`peerjs --port 3001`
 
